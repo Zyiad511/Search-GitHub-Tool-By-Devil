@@ -1,0 +1,33 @@
+Search : ser
+
+Sign In : signin
+
+sign up : signup
+
+New Repositoriy : res
+
+Profile : aco
+
+Search Repositoriy : tool
+
+Explore : ex
+
+pull Requests : pull
+
+Issues : luss
+
+Marketplace : mark
+
+organization : ora
+
+Topics : top
+
+Trending : trend
+
+Collections : coll
+
+Events : ev
+
+Git Sponsors : spo
+
+Team : te
